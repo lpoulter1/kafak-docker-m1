@@ -2,6 +2,8 @@
 
 Kafka instance up and running with Docker on a ARM mac.
 
+Optional: .kafka files can be run with the [Tools for Kafka Vscode extension](https://marketplace.visualstudio.com/items?itemName=jeppeandersen.vscode-kafka)
+
 ## Usage
 
 Run at the root:
